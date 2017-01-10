@@ -1,0 +1,21 @@
+{
+  "name": "flexisaf-bootstrap-theme",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Abbaty Kori <muhammad.kori@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
